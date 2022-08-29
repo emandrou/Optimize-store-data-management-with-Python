@@ -30,18 +30,18 @@ You have access to this data, extracted directly from the company's database to 
 
 •	An analysis of the various sales indicators:
 
-  o	different indicators and graphs around turnover;
+      o	different indicators and graphs around turnover;
 
-  o	the development over time and set up a moving average decomposition to assess the overall trend;
+      o	the development over time and set up a moving average decomposition to assess the overall trend;
 
-  o	to zoom in on the references, to see the tops and flops, the breakdown by category, etc.;
+      o	to zoom in on the references, to see the tops and flops, the breakdown by category, etc.;
 
-  o	some information on the profiles of our clients, and also the distribution of turnover between them, for example via a Lorenz curve.
+      o	some information on the profiles of our clients, and also the distribution of turnover between them, for example via a Lorenz curve.
 
 *MISSION NO. 2*
 
 •	A more focused analysis on customers: the objective this time would be to understand the behaviour of our customers online, in order to then be able to compare with the knowledge acquired through our physical libraries:
 
-  o	The relationship between a customer's gender and the categories of books purchased;
+      o	The relationship between a customer's gender and the categories of books purchased;
 
-  o	And then the relationship between the age of customers and the total amount purchased, frequency of purchase, average basket size and categories of books purchased.
+      o	And then the relationship between the age of customers and the total amount purchased, frequency of purchase, average basket size and categories of books purchased.
